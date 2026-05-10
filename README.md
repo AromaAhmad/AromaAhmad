@@ -6,7 +6,7 @@
 
 ### 👩‍💻 About Me
 - 🔭 Currently working on **College Alert App** (Jetpack Compose + Firebase)
-- 🌱 Currently interning at **Code Alpha** & **Developers Hub**
+- 🌱 Currently interning at **Code Alpha** 
 - 💡 Passionate about building clean, user-friendly Android apps
 - 📧 Reach me at: **aromaahmad91@gmail.com**
 
