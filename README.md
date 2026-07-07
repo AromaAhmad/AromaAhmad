@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aroma Ahmad 👋</h1>
-<h3 align="center">Android Developer | Kotlin | Jetpack Compose | Firebase</h3>
+<h3 align="center">Android Developer | Kotlin | Jetpack Compose | Firebase | AI-Powered Mobile Apps</h3>
 <h4 align="center">BS Computer Science @ University of Sargodha, Pakistan</h4>
 
 # Hi, I'm Aroma Ahmad 👋
