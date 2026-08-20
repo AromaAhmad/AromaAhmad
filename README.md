@@ -2,30 +2,28 @@
 <h3 align="center">Android Developer | Kotlin | Jetpack Compose | Firebase | AI-Powered Mobile Apps</h3>
 <h4 align="center">BS Computer Science @ University of Sargodha, Pakistan</h4>
 
-# Hi, I'm Aroma Ahmad 👋
+# Hi, I'm Aroma Ahmad 👋# Aroma Ahmad
 
-### Android Developer | Kotlin | Jetpack Compose | AI Enthusiast
-
-🎓 BS Computer Science — University of Sargodha, Pakistan
+### Android Developer | Kotlin | Jetpack Compose | On-Device AI
+🎓 BS Computer Science (5th Semester) — University of Sargodha, Pakistan | Expected 2028
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm an Android developer passionate about building modern mobile applications using **Kotlin** and **Jetpack Compose**.
+I'm an Android developer building modern, AI-powered mobile applications using **Kotlin** and **Jetpack Compose**.
 
-🚀 Currently building **MediMindAI**, an AI-powered Android health assistant using **Gemini AI**, **Room Database**, and **MVVM Architecture**.
+🚀 Currently building **HealthGuardAI**, an on-device RAG-based health document assistant powered by **Gemma 3 1B**, **MediaPipe**, and **Gemini API**.
 
 🌱 Currently learning:
-- Android Architecture
-- Clean Code
-- AI Integration
-- Modern Android Development
+- On-device LLM integration & RAG pipelines
+- Clean Architecture & MVVM
+- DSA (Striver's A2Z / NeetCode 150)
 
-💡 Interested in:
-- Android Development
-- Artificial Intelligence
-- Mobile UI/UX
+🎯 Goals:
+- GSoC 2027 contributor (AnkiDroid)
+- Mitacs Globalink Research Internship 2027
+- Microsoft-level SWE role by graduation (2028)
 
 📧 **Email:** aromaahmad91@gmail.com
 
@@ -33,74 +31,48 @@ I'm an Android developer passionate about building modern mobile applications us
 
 ## 🛠 Tech Stack
 
-### Languages
-- Kotlin
+**Languages:** Kotlin
 
-### Android
-- Jetpack Compose
-- MVVM Architecture
-- Navigation Compose
-- ViewModel
-- StateFlow
+**Android:** Jetpack Compose • MVVM • Navigation Compose • ViewModel • StateFlow • Room
 
-### Database
-- Room Database
+**AI / ML:** Gemini AI SDK • Gemma (on-device LLM) • MediaPipe (Universal Sentence Encoder) • RAG Pipelines
 
-### Networking
-- Retrofit
-- Gemini AI SDK
-- OpenWeather API
+**Networking:** Retrofit • Firebase • OpenWeather API
 
-### Firebase
-- Firebase Realtime Database
-- Firebase Cloud Messaging
+**Firebase:** Realtime Database • Firestore • Auth • Cloud Messaging (FCM)
 
-### Tools
-- Android Studio
-- Git
-- GitHub
-- KSP
+**Tools:** Android Studio • Git • GitHub • KSP
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 MediMindAI
-AI-powered Android health assistant built using **Kotlin**, **Jetpack Compose**, **Gemini AI**, **Room Database**, and **MVVM Architecture**.
+### 🩺 HealthGuardAI
+On-device RAG health document assistant — chunks and embeds PDFs locally, retrieves relevant context via cosine similarity, and generates grounded answers using an on-device LLM. No data leaves the device.
+**Tech:** Kotlin • Compose • Gemma 3 1B • MediaPipe • RAG • MVVM
 
+### 🤖 MediMindAI
+AI-powered health assistant using Gemini Vision SDK, CameraX, Room, and MVVM.
 **Tech:** Kotlin • Compose • Room • MVVM • Gemini AI
 
----
-
 ### 🎓 College Alert
-Campus notification app with Firebase Realtime Database and Push Notifications.
-
+Campus notification app built during my CodeAlpha internship — Firebase Auth, Firestore, and color-coded push notifications via FCM.
 **Tech:** Kotlin • Compose • Firebase
 
----
-
 ### 💰 Expense Tracker
-Expense management application with Room Database and MVVM Architecture.
-
+Expense management app with local persistence and MVVM architecture.
 **Tech:** Kotlin • Compose • Room
 
----
-
 ### 🌤 Weather App
-Real-time weather application using OpenWeather API.
-
+Real-time weather app using OpenWeather API.
 **Tech:** Kotlin • Retrofit • API
 
----
-
 ### 💻 Code Care
-Android learning application for coding resources.
-
+Learning app with curated coding resources.
 **Tech:** Kotlin • Compose
 
 ---
 
 ## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/aroma-a-378245342
+- 💼 LinkedIn: [linkedin.com/in/aroma-a-378245342](https://www.linkedin.com/in/aroma-a-378245342)
 - 📧 Email: aromaahmad91@gmail.com
